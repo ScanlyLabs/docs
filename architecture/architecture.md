@@ -155,13 +155,16 @@ SocialLink (Entity)
 
 #### CardBook Context
 ```
-SavedCard (Entity)
-├── SavedCardId (VO)
+CardBook (Entity)
+├── CardBookId (VO)
 ├── MemberId (VO)
 ├── CardId (VO)
 ├── ProfileSnapshot (VO)
 ├── GroupId (VO - nullable)
-└── Memo (VO)
+├── Memo (VO)
+├── IsFavorite (VO)
+├── SavedAt (VO)
+└── UpdatedAt (VO)
 
 Group (Entity)
 ├── GroupId (VO)
