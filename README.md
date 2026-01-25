@@ -28,6 +28,7 @@ QR 코드 기반 디지털 명함 서비스
 | [명함첩](./planning/03-명함첩.md) | 명함첩 도메인 설계   |
 | [미팅](./planning/04-미팅.md) | 미팅 도메인 설계    |
 | [아키텍처](./architecture/architecture.md) | 시스템 아키텍처     |
+| [알림](./planning/05-알림.md) | 알림 도메인 설계    |
 
 ## 주요 기능
 
